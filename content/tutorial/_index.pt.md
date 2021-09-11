@@ -9,6 +9,6 @@ chapter: true
 
 # Tutorial de Python
 
-Aprenda todos os conceitos fundamentais de umas das linguagens mais populares do mundo. O Tutorial é recheado de exemplos práticos e simples para facilitar o entendimento.
+Aprenda todos os conceitos fundamentais de umas das linguagens mais populares do mundo. O Tutorial é recheado de exemplos práticos e simples para facilitar o entendimento do usário.
 
 {{% children %}}
