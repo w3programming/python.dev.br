@@ -12,5 +12,3 @@ chapter: true
 Learn the fundamentals of one of the most popular programming languages in the world. The tutorial is full of practical examples to simplify the understanding.
 
 {{% children %}}
-
-again
